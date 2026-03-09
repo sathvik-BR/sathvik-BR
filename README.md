@@ -11,7 +11,7 @@
 Developed a computer vision model using YOLOv8 to detect ghost fishing gear in marine environments.  
 The model identifies abandoned fishing nets that harm marine ecosystems.
 
-Technologies: Python, YOLOv8, Computer Vision, Deep Learning
+Technologies used: Python, YOLOv8, Computer Vision, Deep Learning
 
 🔗 Project Repository  
 https://github.com/sathvik-BR/ghost-fishing-gear-detection-ml
@@ -19,9 +19,11 @@ https://github.com/sathvik-BR/ghost-fishing-gear-detection-ml
 ---
 
 ### 🎬 Movie Recommendation System
-Built a machine learning web application that recommends similar movies using cosine similarity and NLP techniques.
+Built a machine learning web application that recommends similar movies based on content similarity.
 
-Technologies: Python, Pandas, Scikit-learn, Streamlit
+The system uses the TMDB 5000 Movie Dataset and applies NLP techniques such as CountVectorizer and Cosine Similarity.
+
+Technologies used: Python, Pandas, Scikit-learn, Streamlit
 
 🔗 Project Repository  
 https://github.com/sathvik-BR/movie-recommendation-system
@@ -30,8 +32,14 @@ https://github.com/sathvik-BR/movie-recommendation-system
 
 ## 🛠 Skills
 
-Python • Machine Learning • Computer Vision • NLP  
-Pandas • Scikit-Learn • YOLOv8 • Streamlit
+- Python  
+- Machine Learning  
+- Computer Vision  
+- Natural Language Processing  
+- Pandas  
+- Scikit-Learn  
+- YOLOv8  
+- Streamlit  
 
 ---
 
@@ -39,3 +47,6 @@ Pandas • Scikit-Learn • YOLOv8 • Streamlit
 
 LinkedIn  
 https://www.linkedin.com/in/b-r-sathvik-a9b785328
+
+GitHub  
+https://github.com/sathvik-BR
