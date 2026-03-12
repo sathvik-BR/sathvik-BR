@@ -16,9 +16,6 @@ Users can upload documents, ask questions, perform semantic search, generate sum
 
 **Technologies:** Python, Streamlit, LangChain, FAISS, HuggingFace Embeddings, Groq API, NLP
 
-🌐 Live Demo
-https://ai-knowledge-workspace-2nm6jeycwgdgk3u92fzvnm.streamlit.app/
-
 🔗 Project Repository
 https://github.com/sathvik-BR/ai-knowledge-workspace
 
