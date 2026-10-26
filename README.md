@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=B%20R%20Sathvik&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="B R Sathvik banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=B%20R%20Sathvik&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20NLP%20%C2%B7%20RAG&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="B R Sathvik banner" />
 
 <a href="https://github.com/sathvik-BR">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&height=45&lines=Computer+Vision+%C2%B7+Deep+Learning;NLP+%C2%B7+RAG+Pipelines;Explainable+AI+for+Healthcare;Training+%E2%86%92+Explaining+%E2%86%92+Serving+%E2%86%92+Deploying" alt="Typing animation" />
